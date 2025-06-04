@@ -32,7 +32,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"></a>
 <a href="https://www.oracle.com/database/sqldeveloper-technologies/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/6/68/Oracle_SQL_Developer_logo.svg" alt="Oracle SQL Developer" width="40" height="40"></a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"></a>
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnN19E18xtM23VtnQAxytEgzdujZ3XKCtnFrfzdXp-tBn1TKKJ" alt="Canva" width="40" height="40"></a>
 <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="40" height="40"></a>
 
