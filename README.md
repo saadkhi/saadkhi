@@ -2,7 +2,7 @@
 
 ## About Myself:
 
-- I’m currently learning **OpenCV and backend development** in python.  
+- I am currently learning **OpenCV and backend development** in python.  
 - I’m currently working on [hardware construction](https://github.com/saadkhi/CHISEL-LABS).  
 - All of my projects are available at [Github Projects](https://github.com/saadkhi?tab=repositories).  
 - Ask me about **PYTHON, OPENCV, JAVA, SCALA, CSS and HTML**.
