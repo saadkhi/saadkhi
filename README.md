@@ -2,6 +2,7 @@
 
 ## About Myself:
 
+- AI Engineer at @avennex, based in Havilex, Canada.
 - I am currently learning **OpenCV and backend development** in python.  
 - I’m currently working on [hardware construction](https://github.com/saadkhi/CHISEL-LABS).  
 - All of my projects are available at [Github Projects](https://github.com/saadkhi?tab=repositories).  
