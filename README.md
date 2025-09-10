@@ -5,7 +5,7 @@
 - AI Engineer at @avennex sol, based in Havilex, Canada.
 - I am currently learning **OpenCV and backend development** in python.  
 - All of my projects are available at [Github Projects](https://github.com/saadkhi?tab=repositories).  
-- Ask me about **PYTHON, POWER BI, OPENCV, C++, SCALA, TAILWIND**.
+- Ask me about **PYTHON, POWER BI, OPENCV, DJANGO, DRF, FASTAPI, RAG, LLMS**.
 
 ## Connect with Me:
 
